@@ -1,0 +1,26 @@
+.background {
+    padding: 2vh;
+    min-height:50vh;
+    background-color: #414F5C;
+    box-shadow: 3px 3px 3px black ;
+}
+
+.recipeName {
+    text-align: center;
+    color:aliceblue;
+    padding-top: 5vh;
+    padding-bottom: 4vh;
+    font-size: 3rem;
+}
+
+.prepTime {
+    text-align: center;
+    color:aliceblue;
+    padding-bottom: 4vh;
+    font-size: 2rem;
+}
+
+.instructions {
+    color:aliceblue;
+    padding:1rem;
+}

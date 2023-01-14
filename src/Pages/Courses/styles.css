@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.back-flex {
+    min-height: 100vh;
+    background-color: #7EB4DC;
+}
+
+.course-select {
+    text-align: center;
+    color:aliceblue;
+    padding-top: 6vh;
+    padding-bottom: 5vh;
+    font-size: 3rem;
+}
+
+.coursesRow {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+.boxFrame {
+    padding: 2vh;
+    min-width: 30vh;
+}

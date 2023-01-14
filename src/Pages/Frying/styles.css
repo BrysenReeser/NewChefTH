@@ -1,0 +1,29 @@
+.back-flex {
+    min-height: 100vh;
+    background-color: #7EB4DC;
+}
+
+.subBox {
+    /* padding: 20vh; */
+    padding-left: 20vh;
+    padding-top: 10vh;
+    padding-right: 20vh;
+    padding-bottom: 10vh;
+}
+
+.recipeTopBar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.carouselTitle {
+    color: #121D24;
+}
+
+.bottomButtons {
+    display: flex;
+}
+
+.btn {
+    text-transform: unset !important;
+}

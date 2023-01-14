@@ -1,0 +1,31 @@
+.background {
+    padding: 2vh;
+    min-height:50vh;
+    background-color: #414F5C;
+    box-shadow: 3px 3px 3px black ;
+    position: relative;
+}
+
+.boxTitle {
+    text-align: center;
+    color:aliceblue;
+    padding-top: 1vh;
+    padding-bottom: 2vh;
+    font-size: 2em;
+}
+
+.descriptive-text {
+    text-align: center;
+    color:aliceblue;
+    padding-top: 1vh;
+    padding-left: 1vh;
+    font-size: 1em;
+}
+
+.imageBox {
+    position: absolute;
+    bottom: 0;
+    top: 80%;
+    left: 43%;
+    width: 80%;
+}
